@@ -1,26 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" >
-
-    <item
-        jar="/home/rom-pacme/StudioProjects/Final-Version-Lollipop-Platelogo-GingerBread-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="/home/rom-pacme/StudioProjects/Final-Version-Lollipop-Platelogo-GingerBread-master/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_5ec92207d92ca82dab2f3546509b7275983576e7.jar" />
-    </item>
-    <item
-        jar="/home/rom-pacme/Descargas/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="/home/rom-pacme/StudioProjects/Final-Version-Lollipop-Platelogo-GingerBread-master/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_febd6fcd360b08993b743e80be72c37883b24a66.jar" />
-    </item>
-    <item
-        jar="/home/rom-pacme/StudioProjects/Final-Version-Lollipop-Platelogo-GingerBread-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="/home/rom-pacme/StudioProjects/Final-Version-Lollipop-Platelogo-GingerBread-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.3_b968b31e8cde3e3cf7c49dac62f98c707c0bb112.jar" />
-    </item>
-
-</items>
+<items version="2" />

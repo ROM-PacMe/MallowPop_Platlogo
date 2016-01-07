@@ -38,6 +38,19 @@
             android:layout_centerVertical="true"
             android:layout_centerHorizontal="true" />
 
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Android 6.0\nMallowPop"
+            android:id="@+id/textView3"
+            android:textSize="16sp"
+            android:gravity="center_horizontal"
+            android:textStyle="normal"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="35dp" />
+
     </RelativeLayout>
 
 </RelativeLayout>
