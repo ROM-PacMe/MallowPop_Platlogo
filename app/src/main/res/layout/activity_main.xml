@@ -32,10 +32,10 @@
         android:id="@+id/lollilpopText"
         android:layout_width="240dp"
         android:layout_height="240dp"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="120dp"
         android:scaleType="fitCenter"
-        android:src="@drawable/lollipop_text" />
+        android:src="@drawable/lollipop_text"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
     </RelativeLayout>
 
 </RelativeLayout>
